@@ -89,14 +89,12 @@
   i (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
   fireWith (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.[INFO  - 2020-06-01T16:08:51.933Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2020-06-01T16:13:51.933Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-vascripts/jquery-3.0.0.min.js:2)
-  fireWith (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
-  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
-  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
-  i (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
-  fireWith (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
-  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
-  $3 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+[INFO  - 2020-06-01T16:18:51.933Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-06-01T16:23:51.934Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-06-01T16:28:51.934Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-06-01T16:33:51.934Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-06-01T16:38:51.935Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+005191304/javascripts/vqlweb.js:29)
   (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
   execCb (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:29)
   check (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:18)
@@ -416,3 +414,8 @@ vascripts/jquery-3.0.0.min.js:2)
   phantomjs://platform/console++.js:263 in error
 [INFO  - 2020-06-01T16:09:52.130Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2020-06-01T16:14:52.137Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-06-01T16:19:52.132Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-06-01T16:24:52.132Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-06-01T16:29:52.132Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-06-01T16:34:52.132Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-06-01T16:39:52.132Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
