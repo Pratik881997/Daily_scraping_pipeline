@@ -1,1265 +1,418 @@
-[INFO  - 2020-06-01T11:08:51.916Z] GhostDriver - Main - running on port 52855
-[INFO  - 2020-06-01T11:08:54.096Z] Session [47da57d0-a3f8-11ea-9c84-67c4d7b719be] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
-[INFO  - 2020-06-01T11:08:54.096Z] Session [47da57d0-a3f8-11ea-9c84-67c4d7b719be] - page.customHeaders:  - {}
-[INFO  - 2020-06-01T11:08:54.096Z] Session [47da57d0-a3f8-11ea-9c84-67c4d7b719be] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2020-06-01T11:08:54.096Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 47da57d0-a3f8-11ea-9c84-67c4d7b719be
-[ERROR - 2020-06-01T11:10:28.476Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1591009828418
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2020-06-01T11:13:51.912Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T11:18:51.912Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T11:23:51.912Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T11:28:51.913Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T11:33:51.914Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T11:38:51.914Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T11:43:51.915Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T11:48:51.915Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T11:53:51.916Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T11:58:51.916Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T12:03:51.917Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T12:08:51.917Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T12:13:51.916Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T12:18:51.917Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T12:23:51.916Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T12:28:51.917Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T12:33:51.917Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T12:38:51.918Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T12:43:51.919Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T12:48:51.919Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T12:53:51.920Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T12:58:51.920Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T13:03:51.920Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T13:08:51.920Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T13:13:51.921Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T13:18:51.921Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T13:23:51.921Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T13:28:51.921Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T13:33:51.921Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T13:38:51.922Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T13:43:51.921Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T13:48:51.921Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T13:53:51.922Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T13:58:51.922Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T14:03:51.922Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T14:08:51.922Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T14:13:51.923Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T14:18:51.923Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T14:23:51.923Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T14:28:51.923Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T14:33:51.924Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T14:34:35.532Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-antomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:21:02.993Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:21:02.993Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:21:04.361Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:21:04.361Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:21:04.695Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:21:04.696Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:21:04.951Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:21:04.951Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2020-06-01T11:25:42.101Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T11:30:42.101Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2020-06-01T11:31:06.662Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: ReferenceError: Can't find variable: fetch
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:31:06.662Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  reload_mobile_market_data (https://www.moneycontrol.com/:2307)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:31:10.954Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:31:10.955Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:31:11.165Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:31:11.166Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:31:11.382Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:31:11.382Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:31:12.024Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:31:12.024Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:31:12.542Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:31:12.542Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:31:12.781Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:31:12.782Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:31:13.024Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:31:13.024Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2020-06-01T11:35:42.101Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T11:40:42.101Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2020-06-01T11:41:14.927Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: ReferenceError: Can't find variable: fetch
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:41:14.927Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  reload_mobile_market_data (https://www.moneycontrol.com/:2301)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:41:18.722Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:41:18.722Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:41:19.028Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:41:19.028Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:41:19.159Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:41:19.159Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:41:20.709Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:41:20.709Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:41:21.012Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:41:21.012Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:41:21.397Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:41:21.398Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2020-06-01T11:45:42.101Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T11:50:42.101Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2020-06-01T11:51:22.504Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: ReferenceError: Can't find variable: fetch
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:51:22.505Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  reload_mobile_market_data (https://www.moneycontrol.com/:2301)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:51:27.013Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:51:27.013Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:51:27.240Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:51:27.240Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:51:27.405Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:51:27.405Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:51:28.457Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:51:28.457Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:51:28.682Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:51:28.682Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:51:28.870Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T11:51:28.870Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2020-06-01T11:55:42.101Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T12:00:42.101Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2020-06-01T12:01:30.821Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: ReferenceError: Can't find variable: fetch
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:01:30.821Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  reload_mobile_market_data (https://www.moneycontrol.com/:2301)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:01:35.029Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:01:35.030Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:01:35.218Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:01:35.219Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:01:35.413Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:01:35.413Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:01:35.653Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:01:35.653Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:01:35.912Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:01:35.913Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:01:36.133Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:01:36.133Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:01:36.576Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:01:36.576Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:01:36.800Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:01:36.800Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:01:37.051Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:01:37.052Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2020-06-01T12:05:42.102Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T12:10:42.103Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2020-06-01T12:11:38.250Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: ReferenceError: Can't find variable: fetch
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:11:38.250Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  reload_mobile_market_data (https://www.moneycontrol.com/:2301)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:11:42.390Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:11:42.390Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:11:42.585Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:11:42.585Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:11:42.792Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:11:42.792Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:11:42.982Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:11:42.982Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:11:43.352Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:11:43.352Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:11:43.634Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:11:43.634Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:11:44.050Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:11:44.050Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:11:44.236Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:11:44.237Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:11:44.432Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:11:44.432Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2020-06-01T12:15:42.104Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T12:20:42.104Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2020-06-01T12:21:47.467Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: ReferenceError: Can't find variable: fetch
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:21:47.467Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  reload_mobile_market_data (https://www.moneycontrol.com/:2301)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:21:50.863Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:21:50.863Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:21:51.000Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:21:51.001Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:21:51.372Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:21:51.372Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:21:51.691Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:21:51.692Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:21:51.957Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:21:51.958Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:21:52.460Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:21:52.460Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:21:52.659Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:21:52.660Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:21:52.867Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:21:52.867Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2020-06-01T12:25:42.104Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T12:30:42.104Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2020-06-01T12:31:56.751Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: ReferenceError: Can't find variable: fetch
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:31:56.752Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  reload_mobile_market_data (https://www.moneycontrol.com/:2301)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:32:00.905Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:32:00.906Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:32:01.469Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:32:01.469Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:32:01.645Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:32:01.646Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:32:01.841Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:32:01.841Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:32:02.321Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:32:02.321Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:32:02.520Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:32:02.520Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:32:02.704Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:32:02.704Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2020-06-01T12:35:42.104Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T12:40:42.104Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2020-06-01T12:42:04.084Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: ReferenceError: Can't find variable: fetch
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:42:04.084Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  reload_mobile_market_data (https://www.moneycontrol.com/:2301)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:42:08.378Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:42:08.378Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:42:08.452Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:42:08.452Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:42:08.679Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:42:08.680Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:42:09.033Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:42:09.034Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:42:09.287Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:42:09.287Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:42:09.623Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:42:09.624Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:42:10.119Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:42:10.120Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:42:10.398Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:42:10.398Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:42:10.596Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:42:10.597Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2020-06-01T12:45:42.105Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T12:50:42.105Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2020-06-01T12:52:12.294Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: ReferenceError: Can't find variable: fetch
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:52:12.294Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  reload_mobile_market_data (https://www.moneycontrol.com/:2301)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:52:16.436Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:52:16.436Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:52:16.627Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:52:16.627Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:52:16.854Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:52:16.854Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:52:17.074Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:52:17.074Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:52:17.339Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:52:17.339Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:52:17.503Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:52:17.503Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:52:18.074Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:52:18.074Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:52:18.249Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:52:18.249Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:52:18.423Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T12:52:18.423Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2020-06-01T12:55:42.105Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T13:00:42.105Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2020-06-01T13:02:19.694Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: ReferenceError: Can't find variable: fetch
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:02:19.694Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  reload_mobile_market_data (https://www.moneycontrol.com/:2301)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:02:23.948Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:02:23.949Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:02:24.022Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:02:24.022Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:02:24.254Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:02:24.254Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:02:24.451Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:02:24.451Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:02:24.707Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:02:24.707Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:02:24.881Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:02:24.881Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:02:25.313Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:02:25.314Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:02:25.558Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:02:25.559Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:02:25.744Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:02:25.744Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2020-06-01T13:05:42.106Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T13:10:42.106Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2020-06-01T13:12:25.721Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: ReferenceError: Can't find variable: fetch
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:12:25.721Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  reload_mobile_market_data (https://www.moneycontrol.com/:2301)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:12:29.998Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:12:29.998Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:12:30.278Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:12:30.278Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:12:30.488Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:12:30.488Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:12:30.994Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:12:30.994Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:12:31.236Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:12:31.236Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:12:31.467Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:12:31.468Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:12:32.036Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:12:32.036Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:12:32.261Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:12:32.261Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:12:32.436Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:12:32.437Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2020-06-01T13:15:42.106Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T13:20:42.106Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2020-06-01T13:22:33.751Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: ReferenceError: Can't find variable: fetch
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:22:33.752Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  reload_mobile_market_data (https://www.moneycontrol.com/:2301)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:22:38.063Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:22:38.063Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:22:38.464Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:22:38.464Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:22:38.747Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:22:38.747Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:22:38.925Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:22:38.925Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:22:39.095Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:22:39.095Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:22:39.530Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:22:39.531Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:22:39.714Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:22:39.714Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:22:39.959Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:22:39.960Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2020-06-01T13:25:42.107Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T13:30:42.107Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2020-06-01T13:32:41.499Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: ReferenceError: Can't find variable: fetch
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:32:41.499Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  reload_mobile_market_data (https://www.moneycontrol.com/:2301)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:32:45.861Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:32:45.861Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:32:46.227Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:32:46.227Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:32:46.500Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:32:46.500Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:32:46.683Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:32:46.684Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:32:46.870Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:32:46.870Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:32:47.358Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:32:47.358Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:32:47.536Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:32:47.536Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:32:47.783Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:32:47.783Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2020-06-01T13:35:42.107Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T13:40:42.107Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2020-06-01T13:42:49.716Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: ReferenceError: Can't find variable: fetch
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:42:49.717Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  reload_mobile_market_data (https://www.moneycontrol.com/:2301)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:42:53.664Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:42:53.664Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:42:53.957Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:42:53.957Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:42:54.199Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:42:54.199Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:42:54.574Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:42:54.574Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:42:54.787Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:42:54.788Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:42:55.268Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:42:55.268Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:42:55.493Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:42:55.493Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:42:55.629Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:42:55.629Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2020-06-01T13:45:42.107Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T13:50:42.107Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2020-06-01T13:53:00.695Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: ReferenceError: Can't find variable: fetch
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:53:00.695Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  reload_mobile_market_data (https://www.moneycontrol.com/:2301)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:53:03.570Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:53:03.570Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:53:03.754Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:53:03.754Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:53:03.891Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:53:03.892Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:53:04.447Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:53:04.447Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:53:04.673Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:53:04.673Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:53:05.257Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:53:05.257Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:53:05.357Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:53:05.357Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:53:05.588Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T13:53:05.588Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2020-06-01T13:55:42.108Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T14:00:42.108Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2020-06-01T14:03:08.995Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: ReferenceError: Can't find variable: fetch
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:03:08.996Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  reload_mobile_market_data (https://www.moneycontrol.com/:2301)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:03:12.759Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:03:12.760Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:03:13.180Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:03:13.180Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:03:13.463Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:03:13.463Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:03:13.764Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:03:13.764Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:03:13.850Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:03:13.850Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:03:14.024Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:03:14.024Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:03:14.547Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:03:14.547Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:03:14.770Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:03:14.771Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:03:14.924Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:03:14.925Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2020-06-01T14:05:42.108Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T14:10:42.108Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2020-06-01T14:13:17.050Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: ReferenceError: Can't find variable: fetch
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:13:17.051Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  reload_mobile_market_data (https://www.moneycontrol.com/:2301)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:13:21.193Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:13:21.194Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:13:21.472Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:13:21.472Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:13:21.611Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:13:21.612Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:13:21.709Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:13:21.709Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:13:21.910Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:13:21.910Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:13:22.101Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:13:22.101Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:13:22.567Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:13:22.567Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:13:23.073Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:13:23.073Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2020-06-01T14:15:42.108Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T14:20:42.108Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2020-06-01T14:23:28.994Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: ReferenceError: Can't find variable: fetch
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:23:28.994Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  reload_mobile_market_data (https://www.moneycontrol.com/:2301)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:23:32.447Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:23:32.447Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:23:32.672Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:23:32.672Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:23:33.121Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:23:33.121Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:23:33.188Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:23:33.189Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:23:33.595Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:23:33.595Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:23:34.055Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:23:34.055Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:23:34.256Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:23:34.257Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:23:34.275Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: TypeError: null is not an object (evaluating 'event.size[0]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:23:34.276Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  (anonymous function) (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020052101.js:6)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2020-06-01T14:25:42.108Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2020-06-01T14:30:42.108Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2020-06-01T14:33:48.640Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - msg: ReferenceError: Can't find variable: fetch
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2020-06-01T14:33:48.640Z] Session [23da4c60-a3f7-11ea-b59d-530ed20c75cb] - page.onError - stack:
-  reload_mobile_market_data (https://www.moneycontrol.com/:2301)
-
-  phantomjs://platform/console++.js:263 in error
+[INFO  - 2020-06-01T16:04:52.134Z] GhostDriver - Main - running on port 54974
+[INFO  - 2020-06-01T16:04:54.315Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-06-01T16:04:54.315Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.customHeaders:  - {}
+[INFO  - 2020-06-01T16:04:54.315Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-06-01T16:04:54.315Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a1c48b70-a421-11ea-8383-bb029d527e5b
+[ERROR - 2020-06-01T16:05:06.559Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByName(e)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:06.559Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - stack:
+  $0 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $2 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $1 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  nrWrapper (https://public.tableau.com/views/Nifty50-PB-Monthly-HeatMap/Nifty50-PB-Monthly-HeatMap?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=1:108)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:06.567Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByName(e)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:06.567Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - stack:
+  $0 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $2 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $1 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  nrWrapper (https://public.tableau.com/views/Nifty50-PB-Monthly-HeatMap/Nifty50-PB-Monthly-HeatMap?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=1:108)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:06.568Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByName(e)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:06.568Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - stack:
+  $0 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $2 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $1 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  nrWrapper (https://public.tableau.com/views/Nifty50-PE-Monthly-HeatMap/Nifty50-PE-Monthly-HeatMap?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=0:108)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:06.573Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByName(e)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:06.573Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - stack:
+  $0 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $2 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $1 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  nrWrapper (https://public.tableau.com/views/Nifty50-PE-Monthly-HeatMap/Nifty50-PE-Monthly-HeatMap?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=0:108)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:12.867Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByName(e)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:12.867Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - stack:
+  $0 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $2 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $1 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  nrWrapper (https://public.tableau.com/views/Nifty50-PB-Monthly-HeatMap/Nifty50-PB-Monthly-HeatMap?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=1:108)
+  focus (:0)
+  componentDidMount (https://public.tableau.com/vizql/v_202022005191304/javascripts/detailed-error-dialog.min.js:1)
+  qi (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  ui (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  unstable_runWithPriority (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:20)
+  Vc (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  Sc (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  Z (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  Kc (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  ya (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  bh (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  xe (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  render (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $g (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  Wc (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  render (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  showDialog (https://public.tableau.com/vizql/v_202022005191304/javascripts/detailed-error-dialog.min.js:1)
+  onNotify (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  c (https://public.tableau.com/vizql/v_202022005191304/javascripts/mscorlib.min.js:1)
+  nonWorldUpdate (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  c (https://public.tableau.com/vizql/v_202022005191304/javascripts/mscorlib.min.js:1)
+  i (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  fireWith (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  c (https://public.tableau.com/vizql/v_202022005191304/javascripts/mscorlib.min.js:1)
+  i (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  fireWith (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.[INFO  - 2020-06-01T16:08:51.933Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-06-01T16:13:51.933Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+vascripts/jquery-3.0.0.min.js:2)
+  fireWith (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  i (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  fireWith (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  $3 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  execCb (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:29)
+  check (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:18)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:22)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:7)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:23)
+  y (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:6)
+  emit (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:23)
+  check (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:19)
+  enable (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:23)
+  init (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:16)
+  I (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:13)
+  completeLoad (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:28)
+  onScriptLoad (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:29)
+  nrWrapper (https://public.tableau.com/views/Nifty50-PE-Monthly-HeatMap/Nifty50-PE-Monthly-HeatMap?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=0:108)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:12.876Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByName(e)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:12.876Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - stack:
+  $0 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $2 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $1 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  nrWrapper (https://public.tableau.com/views/Nifty50-PE-Monthly-HeatMap/Nifty50-PE-Monthly-HeatMap?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=0:108)
+  focus (:0)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:44)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:10)
+  nrWrapper (https://public.tableau.com/views/Nifty50-PB-Monthly-HeatMap/Nifty50-PB-Monthly-HeatMap?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=1:108)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:12.884Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByName(e)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:12.884Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - stack:
+  $0 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $2 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $1 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  nrWrapper (https://public.tableau.com/views/Nifty50-PB-Monthly-HeatMap/Nifty50-PB-Monthly-HeatMap?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=1:108)
+  focus (:0)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:44)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:10)
+  nrWrapper (https://public.tableau.com/views/Nifty50-PE-Monthly-HeatMap/Nifty50-PE-Monthly-HeatMap?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=0:108)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:13.544Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByName(e)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:13.544Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - stack:
+  $0 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $2 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $1 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  nrWrapper (https://public.tableau.com/views/Nifty50-Dividend-Yield-Monthly-HeatMap/Nifty50-Dividend-Yield-Monthly-HeatMap?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=2:108)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:13.550Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByName(e)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:13.550Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - stack:
+  $0 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $2 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $1 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  nrWrapper (https://public.tableau.com/views/Nifty50-Dividend-Yield-Monthly-HeatMap/Nifty50-Dividend-Yield-Monthly-HeatMap?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=2:108)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:16.973Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByName(e)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:16.973Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - stack:
+  $0 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $2 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $1 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  nrWrapper (https://public.tableau.com/views/Nifty50-PE-Monthly-HeatMap/Nifty50-PE-Monthly-HeatMap?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=0:108)
+  focus (:0)
+  componentDidMount (https://public.tableau.com/vizql/v_202022005191304/javascripts/detailed-error-dialog.min.js:1)
+  qi (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  ui (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  unstable_runWithPriority (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:20)
+  Vc (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  Sc (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  Z (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  Kc (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  ya (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  bh (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  xe (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  render (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $g (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  Wc (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  render (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  showDialog (https://public.tableau.com/vizql/v_202022005191304/javascripts/detailed-error-dialog.min.js:1)
+  onNotify (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  c (https://public.tableau.com/vizql/v_202022005191304/javascripts/mscorlib.min.js:1)
+  nonWorldUpdate (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  c (https://public.tableau.com/vizql/v_202022005191304/javascripts/mscorlib.min.js:1)
+  i (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  fireWith (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  c (https://public.tableau.com/vizql/v_202022005191304/javascripts/mscorlib.min.js:1)
+  i (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  fireWith (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  i (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  fireWith (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  i (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  fireWith (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  $3 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  execCb (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:29)
+  check (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:18)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:22)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:7)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:23)
+  y (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:6)
+  emit (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:23)
+  check (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:19)
+  enable (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:23)
+  init (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:16)
+  I (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:13)
+  completeLoad (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:28)
+  onScriptLoad (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:29)
+  nrWrapper (https://public.tableau.com/views/Nifty50-Dividend-Yield-Monthly-HeatMap/Nifty50-Dividend-Yield-Monthly-HeatMap?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=2:108)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:21.337Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByName(e)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:21.337Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - stack:
+  $0 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $2 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $1 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  nrWrapper (https://public.tableau.com/views/Nifty50-PE-Ratio-Chart/Nifty50-PE-Ratio-Chart?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=3:108)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:21.337Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByName(e)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:21.337Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - stack:
+  $0 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $2 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $1 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  nrWrapper (https://public.tableau.com/views/Nifty50-PE-Ratio-Chart/Nifty50-PE-Ratio-Chart?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=3:108)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:21.398Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByName(e)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:21.398Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - stack:
+  $0 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $2 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $1 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  nrWrapper (https://public.tableau.com/views/Nifty50-Dividend-Yield-Monthly-HeatMap/Nifty50-Dividend-Yield-Monthly-HeatMap?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=2:108)
+  focus (:0)
+  componentDidMount (https://public.tableau.com/vizql/v_202022005191304/javascripts/detailed-error-dialog.min.js:1)
+  qi (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  ui (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  unstable_runWithPriority (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:20)
+  Vc (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  Sc (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  Z (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  Kc (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  ya (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  bh (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  xe (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  render (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $g (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  Wc (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  render (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  showDialog (https://public.tableau.com/vizql/v_202022005191304/javascripts/detailed-error-dialog.min.js:1)
+  onNotify (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  c (https://public.tableau.com/vizql/v_202022005191304/javascripts/mscorlib.min.js:1)
+  nonWorldUpdate (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  c (https://public.tableau.com/vizql/v_202022005191304/javascripts/mscorlib.min.js:1)
+  i (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  fireWith (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  c (https://public.tableau.com/vizql/v_202022005191304/javascripts/mscorlib.min.js:1)
+  i (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  fireWith (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  i (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  fireWith (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  i (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  fireWith (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  $3 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  execCb (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:29)
+  check (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:18)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:22)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:7)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:23)
+  y (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:6)
+  emit (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:23)
+  check (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:19)
+  enable (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:23)
+  init (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:16)
+  I (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:13)
+  completeLoad (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:28)
+  onScriptLoad (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:29)
+  nrWrapper (https://public.tableau.com/views/Nifty50-PE-Ratio-Chart/Nifty50-PE-Ratio-Chart?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=3:108)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:26.642Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByName(e)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:26.642Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - stack:
+  $0 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $2 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $1 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  nrWrapper (https://public.tableau.com/views/Nifty50-PB-and-Dividend-Yield-Chart/Nifty50-PB-and-Dividend-Yield-Chart?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=4:108)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:26.643Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByName(e)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:26.643Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - stack:
+  $0 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $2 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $1 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  nrWrapper (https://public.tableau.com/views/Nifty50-PB-and-Dividend-Yield-Chart/Nifty50-PB-and-Dividend-Yield-Chart?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=4:108)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:26.738Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByName(e)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-06-01T16:05:26.739Z] Session [a1c48b70-a421-11ea-8383-bb029d527e5b] - page.onError - stack:
+  $0 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $2 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $1 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  nrWrapper (https://public.tableau.com/views/Nifty50-PE-Ratio-Chart/Nifty50-PE-Ratio-Chart?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=3:108)
+  focus (:0)
+  componentDidMount (https://public.tableau.com/vizql/v_202022005191304/javascripts/detailed-error-dialog.min.js:1)
+  qi (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  ui (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  unstable_runWithPriority (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:20)
+  Vc (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  Sc (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  Z (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  Kc (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  ya (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  bh (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  xe (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  render (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  $g (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  Wc (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  render (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  showDialog (https://public.tableau.com/vizql/v_202022005191304/javascripts/detailed-error-dialog.min.js:1)
+  onNotify (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  c (https://public.tableau.com/vizql/v_202022005191304/javascripts/mscorlib.min.js:1)
+  nonWorldUpdate (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  c (https://public.tableau.com/vizql/v_202022005191304/javascripts/mscorlib.min.js:1)
+  i (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  fireWith (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  c (https://public.tableau.com/vizql/v_202022005191304/javascripts/mscorlib.min.js:1)
+  i (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  fireWith (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  i (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  fireWith (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  i (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  fireWith (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/jquery-3.0.0.min.js:2)
+  $3 (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+  execCb (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:29)
+  check (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:18)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:22)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:7)
+  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:23)
+  y (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:6)
+  emit (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:23)
+  check (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:19)
+  enable (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:23)
+  init (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:16)
+  I (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:13)
+  completeLoad (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:28)
+  onScriptLoad (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:29)
+  nrWrapper (https://public.tableau.com/views/Nifty50-PB-and-Dividend-Yield-Chart/Nifty50-PB-and-Dividend-Yield-Chart?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&:loadOrderID=4:108)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2020-06-01T16:09:52.130Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-06-01T16:14:52.137Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
