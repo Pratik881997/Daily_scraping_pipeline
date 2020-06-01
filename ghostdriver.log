@@ -94,8 +94,7 @@
 [INFO  - 2020-06-01T16:28:51.934Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2020-06-01T16:33:51.934Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2020-06-01T16:38:51.935Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-005191304/javascripts/vqlweb.js:29)
-  (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/vqlweb.js:29)
+[INFO  - 2020-06-01T16:43:51.935Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
   execCb (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:29)
   check (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:18)
   (anonymous function) (https://public.tableau.com/vizql/v_202022005191304/javascripts/require.min.js:22)
@@ -419,3 +418,4 @@
 [INFO  - 2020-06-01T16:29:52.132Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2020-06-01T16:34:52.132Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2020-06-01T16:39:52.132Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-06-01T16:44:52.132Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
